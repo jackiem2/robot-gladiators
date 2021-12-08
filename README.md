@@ -40,3 +40,6 @@ Title: Add randomness to health and damage values
 - Create and use JavaScript objects to organize data related to the player and data related to the enemies.
 
 - Create object methods to perform player actions.
+
+hi
+
